@@ -1,0 +1,11 @@
+D:\PruebaMTechSystems\MTechTest\MTechTest\bin\Debug\MTechTest.exe.config
+D:\PruebaMTechSystems\MTechTest\MTechTest\bin\Debug\MTechTest.exe
+D:\PruebaMTechSystems\MTechTest\MTechTest\bin\Debug\MTechTest.pdb
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.csproj.AssemblyReference.cache
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.csproj.SuggestedBindingRedirects.cache
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.Form1.resources
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.Properties.Resources.resources
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.csproj.GenerateResource.cache
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.csproj.CoreCompileInputs.cache
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.exe
+D:\PruebaMTechSystems\MTechTest\MTechTest\obj\Debug\MTechTest.pdb
